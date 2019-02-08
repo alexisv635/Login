@@ -1,0 +1,13 @@
+--------------------------- 30/01/2019 ---------------------------
+v1. 
+-Creacion del archivo.
+
+--------------------------- 31/01/2019 ---------------------------
+v1.0.1. 
+-Agregado el footer faltante.
+-Se elimino la referencia a recordar contraseña.
+
+--------------------------- 04/02/2019 ---------------------------
+v1.0.2
+-Cambio de imagen de portada.
+-Eliminada referencia a "Recordar Contrasena"
